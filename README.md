@@ -1,13 +1,8 @@
 
 ### My Stats (Yes, A lot of C#, take it with a grain of salt, it was a unity project)
-<table border="0">
- <tr>
-    <td>![](https://komarev.com/ghpvc/?username=your-github-username)
-        [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</td>
-    <td>![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikKlasen&theme=tokyonight&langs_count=200) </td>
- </tr>
- 
-</table>
+
+![](https://komarev.com/ghpvc/?username=HenrikKlasen)<br>[![trophy](https://github-profile-trophy.vercel.app/?username=HenrikKlasen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikKlasen&theme=tokyonight&langs_count=200)
 
 
 
