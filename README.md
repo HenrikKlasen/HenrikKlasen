@@ -2,7 +2,11 @@
 ### My Stats (Yes, A lot of C#, take it with a grain of salt, it was a unity project)
 
 ![](https://komarev.com/ghpvc/?username=HenrikKlasen)<br>[![trophy](https://github-profile-trophy.vercel.app/?username=HenrikKlasen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikKlasen&theme=tokyonight&langs_count=200)
+<br>
+<br>
+![Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenrikKlasen&theme=zenburn)
+![Langs2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenrikKlasen&theme=zenburn) 
+![Lang3](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HenrikKlasen&theme=zenburn&utcOffset=1)
 
 
 
