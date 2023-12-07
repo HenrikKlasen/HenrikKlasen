@@ -7,5 +7,5 @@ I am a second year Bachelor in Computer Science student pursuing my Erasmus Seme
 Even though my stats tell you otherwise, I do a lot of Java and Python programming and C# is just a hobby for Unity projects.
 
 ### Todays CS joke:
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) <br>
 Refresh to generate a new one
