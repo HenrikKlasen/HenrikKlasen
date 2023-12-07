@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikKlasen&theme=tokyonight&lang_count=200)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikKlasen&theme=tokyonight&langs_count=200)
